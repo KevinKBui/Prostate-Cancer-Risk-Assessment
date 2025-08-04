@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/8f1713e1036a4d279f0f634d0174f65f/artifacts
+end_time: 1754346826555
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 8f1713e1036a4d279f0f634d0174f65f
+run_name: bedecked-whale-940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346826540
+status: 3
+tags: []
+user_id: ubuntu

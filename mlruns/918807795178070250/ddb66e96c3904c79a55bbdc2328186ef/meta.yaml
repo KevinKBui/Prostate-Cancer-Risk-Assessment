@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/ddb66e96c3904c79a55bbdc2328186ef/artifacts
+end_time: 1754346827296
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: ddb66e96c3904c79a55bbdc2328186ef
+run_name: intrigued-dove-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346827280
+status: 3
+tags: []
+user_id: ubuntu

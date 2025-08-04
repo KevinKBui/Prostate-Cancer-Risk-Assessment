@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/0c8ec086a0e3421d993e6154b9298154/artifacts
+end_time: 1754346827701
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 0c8ec086a0e3421d993e6154b9298154
+run_name: redolent-cub-542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346827674
+status: 3
+tags: []
+user_id: ubuntu

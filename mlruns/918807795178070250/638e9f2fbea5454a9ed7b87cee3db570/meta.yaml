@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/638e9f2fbea5454a9ed7b87cee3db570/artifacts
+end_time: 1754346826538
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 638e9f2fbea5454a9ed7b87cee3db570
+run_name: fearless-crane-68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346826525
+status: 3
+tags: []
+user_id: ubuntu

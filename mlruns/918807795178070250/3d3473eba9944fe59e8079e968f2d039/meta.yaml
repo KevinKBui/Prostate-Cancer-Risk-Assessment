@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/3d3473eba9944fe59e8079e968f2d039/artifacts
+end_time: 1754346827008
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 3d3473eba9944fe59e8079e968f2d039
+run_name: flawless-lynx-367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346826960
+status: 3
+tags: []
+user_id: ubuntu

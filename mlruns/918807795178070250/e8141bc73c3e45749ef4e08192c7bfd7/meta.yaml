@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/e8141bc73c3e45749ef4e08192c7bfd7/artifacts
+end_time: 1754346827576
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: e8141bc73c3e45749ef4e08192c7bfd7
+run_name: awesome-fawn-391
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346827540
+status: 3
+tags: []
+user_id: ubuntu

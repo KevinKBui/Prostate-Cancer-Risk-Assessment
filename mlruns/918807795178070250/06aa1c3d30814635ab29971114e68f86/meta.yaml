@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/06aa1c3d30814635ab29971114e68f86/artifacts
+end_time: 1754346826583
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 06aa1c3d30814635ab29971114e68f86
+run_name: glamorous-pug-423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346826557
+status: 3
+tags: []
+user_id: ubuntu

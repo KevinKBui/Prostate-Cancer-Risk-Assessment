@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/e4b38bf2251541fc83649e13e9f2b6fc/artifacts
+end_time: 1754346827370
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: e4b38bf2251541fc83649e13e9f2b6fc
+run_name: unleashed-dog-789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346827325
+status: 3
+tags: []
+user_id: ubuntu

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/36bd49d8f01e4423b13abf9af3273e0b/artifacts
+end_time: 1754346827042
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 36bd49d8f01e4423b13abf9af3273e0b
+run_name: trusting-cod-975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346827014
+status: 3
+tags: []
+user_id: ubuntu

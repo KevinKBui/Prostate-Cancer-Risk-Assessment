@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/a345dfc6111b4257b62c984b2d06951b/artifacts
+end_time: 1754346826211
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: a345dfc6111b4257b62c984b2d06951b
+run_name: bald-ant-85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346826189
+status: 3
+tags: []
+user_id: ubuntu

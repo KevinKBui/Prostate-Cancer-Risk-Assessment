@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/bad16e744bf24f978c8f0911bf8e8249/artifacts
+end_time: 1754346827533
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: bad16e744bf24f978c8f0911bf8e8249
+run_name: bright-dolphin-276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346827491
+status: 3
+tags: []
+user_id: ubuntu

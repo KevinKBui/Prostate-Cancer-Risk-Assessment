@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/7f714e02ef5b469cbd345109f4965a20/artifacts
+end_time: 1754346827273
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 7f714e02ef5b469cbd345109f4965a20
+run_name: rogue-mole-148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346827251
+status: 3
+tags: []
+user_id: ubuntu

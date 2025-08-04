@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/4ddfeb1a72ff43f1a791bf1c414625d9/artifacts
+end_time: 1754346826125
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 4ddfeb1a72ff43f1a791bf1c414625d9
+run_name: marvelous-donkey-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346826070
+status: 3
+tags: []
+user_id: ubuntu

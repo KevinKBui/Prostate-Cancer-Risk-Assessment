@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/8ea3cd48dfa3432da8ec992dfe9daea5/artifacts
+end_time: 1754346827244
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 8ea3cd48dfa3432da8ec992dfe9daea5
+run_name: respected-tern-494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346827225
+status: 3
+tags: []
+user_id: ubuntu

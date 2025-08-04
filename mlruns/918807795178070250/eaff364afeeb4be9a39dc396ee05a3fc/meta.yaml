@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/eaff364afeeb4be9a39dc396ee05a3fc/artifacts
+end_time: 1754346827091
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: eaff364afeeb4be9a39dc396ee05a3fc
+run_name: glamorous-rat-347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346827075
+status: 3
+tags: []
+user_id: ubuntu

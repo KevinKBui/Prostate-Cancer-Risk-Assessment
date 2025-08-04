@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/21a7234506c743ce973ba04312411e62/artifacts
+end_time: 1754346826413
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 21a7234506c743ce973ba04312411e62
+run_name: serious-bass-552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346826383
+status: 3
+tags: []
+user_id: ubuntu

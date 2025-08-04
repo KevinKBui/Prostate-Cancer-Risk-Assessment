@@ -1,0 +1,36 @@
+artifact_path: /workspaces/Assisted-Visual-Navigation/Notebooks/mlruns/1/models/m-946bc92d7820433ebcea589c157c2f87/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.1
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: xgb
+    xgb_version: 3.0.2
+is_signature_from_type_hint: false
+mlflow_version: 3.1.4
+model_id: m-946bc92d7820433ebcea589c157c2f87
+model_size_bytes: 307730
+model_uuid: m-946bc92d7820433ebcea589c157c2f87
+prompts: null
+run_id: bedc6c7d2e654ae69ce946592e43a2d7
+signature:
+  inputs: '[{"type": "long", "name": "age", "required": true}, {"type": "double",
+    "name": "bmi", "required": true}, {"type": "integer", "name": "smoker", "required":
+    true}, {"type": "integer", "name": "alcohol_consumption", "required": true}, {"type":
+    "integer", "name": "diet_type", "required": true}, {"type": "integer", "name":
+    "physical_activity_level", "required": true}, {"type": "integer", "name": "family_history",
+    "required": true}, {"type": "integer", "name": "mental_stress_level", "required":
+    true}, {"type": "double", "name": "sleep_hours", "required": true}, {"type": "integer",
+    "name": "regular_health_checkup", "required": true}, {"type": "integer", "name":
+    "prostate_exam_done", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-07-27 21:17:23.667179'

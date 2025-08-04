@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/aa4eeb130e3440a69aea2ab3ba282441/artifacts
+end_time: 1754346826617
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: aa4eeb130e3440a69aea2ab3ba282441
+run_name: nosy-eel-541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346826585
+status: 3
+tags: []
+user_id: ubuntu

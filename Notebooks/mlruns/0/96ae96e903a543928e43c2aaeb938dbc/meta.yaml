@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Assisted-Visual-Navigation/Notebooks/mlruns/0/96ae96e903a543928e43c2aaeb938dbc/artifacts
+end_time: 1753596255215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96ae96e903a543928e43c2aaeb938dbc
+run_name: tasteful-goose-493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753596255209
+status: 4
+tags: []
+user_id: codespace

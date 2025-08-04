@@ -1,0 +1,1 @@
+{"timestamp": "2025-08-04T22:01:04.771227", "input": {"age": 45, "bmi": 25.5, "sleep_hours": 7.5, "family_history": "Yes", "diet": "Healthy", "exercise_frequency": "Daily", "smoking_status": "Never", "alcohol_consumption": "Light"}, "prediction": 2, "probabilities": [0.20925527811050415, 0.05317169800400734, 0.7375730872154236], "model_run_id": "unknown"}

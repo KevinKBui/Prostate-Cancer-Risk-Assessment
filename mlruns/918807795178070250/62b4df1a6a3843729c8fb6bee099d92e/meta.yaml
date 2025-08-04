@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/62b4df1a6a3843729c8fb6bee099d92e/artifacts
+end_time: 1754346826290
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 62b4df1a6a3843729c8fb6bee099d92e
+run_name: exultant-owl-859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346826264
+status: 3
+tags: []
+user_id: ubuntu

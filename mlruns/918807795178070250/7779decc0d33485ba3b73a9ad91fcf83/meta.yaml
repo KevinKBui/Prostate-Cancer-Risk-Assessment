@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/7779decc0d33485ba3b73a9ad91fcf83/artifacts
+end_time: 1754346827667
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 7779decc0d33485ba3b73a9ad91fcf83
+run_name: persistent-ram-832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346827653
+status: 3
+tags: []
+user_id: ubuntu

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/225dffbef3814e37a95da124d6347393/artifacts
+end_time: 1754346827143
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 225dffbef3814e37a95da124d6347393
+run_name: polite-shad-932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346827117
+status: 3
+tags: []
+user_id: ubuntu

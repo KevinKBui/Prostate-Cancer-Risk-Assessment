@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/4be9c623998e4bbdbdc0c5f5d3ee9d0c/artifacts
+end_time: 1754346826455
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 4be9c623998e4bbdbdc0c5f5d3ee9d0c
+run_name: placid-stag-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346826416
+status: 3
+tags: []
+user_id: ubuntu

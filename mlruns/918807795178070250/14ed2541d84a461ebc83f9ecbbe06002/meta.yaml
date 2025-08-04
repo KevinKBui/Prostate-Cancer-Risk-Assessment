@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/14ed2541d84a461ebc83f9ecbbe06002/artifacts
+end_time: 1754346826187
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 14ed2541d84a461ebc83f9ecbbe06002
+run_name: unique-lamb-704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346826161
+status: 3
+tags: []
+user_id: ubuntu

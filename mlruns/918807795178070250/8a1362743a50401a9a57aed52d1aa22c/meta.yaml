@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/8a1362743a50401a9a57aed52d1aa22c/artifacts
+end_time: 1754346826647
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 8a1362743a50401a9a57aed52d1aa22c
+run_name: capricious-robin-805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754346826620
+status: 3
+tags: []
+user_id: ubuntu

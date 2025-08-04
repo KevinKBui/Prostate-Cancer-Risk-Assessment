@@ -1,0 +1,123 @@
+version: '3.8'
+
+services:
+  # MLflow Tracking Server
+  mlflow:
+    image: python:3.9-slim
+    container_name: mlflow_server
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./mlruns:/app/mlruns
+      - ./artifacts:/app/artifacts
+      - ./mlflow.db:/app/mlflow.db
+    working_dir: /app
+    command: >
+      bash -c "
+        pip install mlflow==2.8.1 psycopg2-binary &&
+        mlflow server 
+        --backend-store-uri sqlite:///mlflow.db 
+        --default-artifact-root ./artifacts 
+        --host 0.0.0.0 
+        --port 5000
+      "
+    environment:
+      - MLFLOW_BACKEND_STORE_URI=sqlite:///mlflow.db
+      - MLFLOW_DEFAULT_ARTIFACT_ROOT=./artifacts
+    networks:
+      - mlops_network
+
+  # PostgreSQL for monitoring data
+  postgres:
+    image: postgres:13
+    container_name: postgres_monitoring
+    environment:
+      - POSTGRES_DB=monitoring
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./monitoring/init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - mlops_network
+
+  # Grafana for monitoring dashboards
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana_monitoring
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ./monitoring/grafana/dashboards:/etc/grafana/provisioning/dashboards
+      - ./monitoring/grafana/datasources:/etc/grafana/provisioning/datasources
+    depends_on:
+      - postgres
+    networks:
+      - mlops_network
+
+  # Adminer for database management
+  adminer:
+    image: adminer
+    container_name: adminer_db
+    ports:
+      - "8080:8080"
+    depends_on:
+      - postgres
+    networks:
+      - mlops_network
+
+  # Model prediction service
+  model_service:
+    build: .
+    container_name: prostate_cancer_prediction_service
+    ports:
+      - "9696:9696"
+    volumes:
+      - ./models:/app/models
+      - ./logs:/app/logs
+      - ./monitoring:/app/monitoring
+      - ./Data:/app/Data
+    environment:
+      - PYTHONPATH=/app
+      - MLFLOW_TRACKING_URI=http://mlflow:5000
+    depends_on:
+      - mlflow
+      - postgres
+    networks:
+      - mlops_network
+    restart: unless-stopped
+
+  # Monitoring service
+  monitoring_service:
+    build: .
+    container_name: monitoring_service
+    volumes:
+      - ./models:/app/models
+      - ./logs:/app/logs
+      - ./monitoring:/app/monitoring
+      - ./Data:/app/Data
+    environment:
+      - PYTHONPATH=/app
+      - POSTGRES_HOST=postgres
+      - POSTGRES_DB=monitoring
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    depends_on:
+      - postgres
+      - model_service
+    command: python src/monitoring.py
+    networks:
+      - mlops_network
+
+volumes:
+  postgres_data:
+  grafana_data:
+
+networks:
+  mlops_network:
+    driver: bridge
