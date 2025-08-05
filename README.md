@@ -3,7 +3,7 @@
 [![CI/CD Pipeline](https://github.com/KevinKBui/Prostate-Cancer-Risk-Assessment/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/KevinKBui/Prostate-Cancer-Risk-Assessment/actions/workflows/ci-cd.yml)
 
 A complete end-to-end MLOps pipeline for predicting prostate cancer risk levels based on patient health indicators and lifestyle factors. This project demonstrates modern MLOps practices including experiment tracking, workflow orchestration, model deployment, monitoring, and CI/CD.
-
+Please pull the latest version (most recent git commit) for the most up-to-date functionalities.
 ## Project Overview
 
 Prostate cancer is a rising issue within society. There is an alarming increase in the rate of occurrence of prostate cancer and the medical industry is not currently equipped to handle the population size at hand. Additionally, because cancer is often hidden within the body, it becomes increasingly difficult to diagnose and treat. We do not currently have safe, affordable and effective diagnostic methods that can detect and determine which individuals will be affected by prostate cancer. To augment the current healthcare system and its providers, this project was developed to evaluate which individuals are most at-risk of experiencing prostate cancer. To achieve this task, this project implements a machine learning system to predict prostate cancer risk levels (Low, Medium, High) using patient data. The patient data includes:
