@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/7269ee9641584dda8cd182b1234a0a20/artifacts
+end_time: 1754370488942
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 7269ee9641584dda8cd182b1234a0a20
+run_name: popular-eel-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370488924
+status: 3
+tags: []
+user_id: uyen

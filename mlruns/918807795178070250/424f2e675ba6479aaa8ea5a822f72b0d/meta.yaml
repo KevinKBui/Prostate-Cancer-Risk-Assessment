@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/424f2e675ba6479aaa8ea5a822f72b0d/artifacts
+end_time: 1754370486386
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 424f2e675ba6479aaa8ea5a822f72b0d
+run_name: redolent-colt-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370486368
+status: 3
+tags: []
+user_id: uyen

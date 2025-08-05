@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/5c81f35b3d2e4160926d01d45482417e/artifacts
+end_time: 1754370489057
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 5c81f35b3d2e4160926d01d45482417e
+run_name: caring-grub-702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370489026
+status: 3
+tags: []
+user_id: uyen

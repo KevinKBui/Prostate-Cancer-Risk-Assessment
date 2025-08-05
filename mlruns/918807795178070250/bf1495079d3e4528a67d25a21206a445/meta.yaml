@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/bf1495079d3e4528a67d25a21206a445/artifacts
+end_time: 1754366510726
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: bf1495079d3e4528a67d25a21206a445
+run_name: sneaky-roo-653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366509856
+status: 3
+tags: []
+user_id: uyen

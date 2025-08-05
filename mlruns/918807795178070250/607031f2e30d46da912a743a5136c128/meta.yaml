@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/607031f2e30d46da912a743a5136c128/artifacts
+end_time: 1754370892011
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 607031f2e30d46da912a743a5136c128
+run_name: merciful-hound-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370891899
+status: 3
+tags: []
+user_id: uyen

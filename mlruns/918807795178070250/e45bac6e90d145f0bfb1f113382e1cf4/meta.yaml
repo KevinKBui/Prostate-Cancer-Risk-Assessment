@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/e45bac6e90d145f0bfb1f113382e1cf4/artifacts
+end_time: 1754370486634
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: e45bac6e90d145f0bfb1f113382e1cf4
+run_name: righteous-ray-93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370486607
+status: 3
+tags: []
+user_id: uyen

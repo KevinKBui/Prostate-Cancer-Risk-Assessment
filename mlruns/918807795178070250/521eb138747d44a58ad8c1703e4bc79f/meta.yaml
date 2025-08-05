@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/521eb138747d44a58ad8c1703e4bc79f/artifacts
+end_time: 1754370957327
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 521eb138747d44a58ad8c1703e4bc79f
+run_name: vaunted-cub-68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370953778
+status: 3
+tags: []
+user_id: uyen

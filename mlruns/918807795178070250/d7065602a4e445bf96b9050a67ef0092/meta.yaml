@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/d7065602a4e445bf96b9050a67ef0092/artifacts
+end_time: 1754370950861
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: d7065602a4e445bf96b9050a67ef0092
+run_name: blushing-pig-116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370950794
+status: 3
+tags: []
+user_id: uyen

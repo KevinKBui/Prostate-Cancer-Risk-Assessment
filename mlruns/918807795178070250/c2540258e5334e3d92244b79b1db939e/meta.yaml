@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/c2540258e5334e3d92244b79b1db939e/artifacts
+end_time: 1754364636276
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: c2540258e5334e3d92244b79b1db939e
+run_name: vaunted-crow-794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364636236
+status: 3
+tags: []
+user_id: uyen

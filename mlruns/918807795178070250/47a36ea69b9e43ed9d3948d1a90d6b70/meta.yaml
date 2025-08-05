@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/47a36ea69b9e43ed9d3948d1a90d6b70/artifacts
+end_time: 1754370486364
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 47a36ea69b9e43ed9d3948d1a90d6b70
+run_name: awesome-perch-362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370486315
+status: 3
+tags: []
+user_id: uyen

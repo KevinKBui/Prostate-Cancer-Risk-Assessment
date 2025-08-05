@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/b18e1ee351ef4ca5a292dfacd2611053/artifacts
+end_time: 1754364649234
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: b18e1ee351ef4ca5a292dfacd2611053
+run_name: kindly-rook-893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364645222
+status: 4
+tags: []
+user_id: uyen

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/f9d2ba06c38d4c68bed3cb26cf0539ec/artifacts
+end_time: 1754364643582
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: f9d2ba06c38d4c68bed3cb26cf0539ec
+run_name: treasured-wolf-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364642967
+status: 3
+tags: []
+user_id: uyen

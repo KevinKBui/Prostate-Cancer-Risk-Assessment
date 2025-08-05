@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/75e4c57740254b55bd93e326e47caaf9/artifacts
+end_time: 1754370897488
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 75e4c57740254b55bd93e326e47caaf9
+run_name: luxuriant-bee-465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370896878
+status: 3
+tags: []
+user_id: uyen

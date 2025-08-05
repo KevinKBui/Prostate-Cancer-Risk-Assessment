@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/6e857da856cc4f6e86a7e18a348de3b2/artifacts
+end_time: 1754370927229
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 6e857da856cc4f6e86a7e18a348de3b2
+run_name: mercurial-ray-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370927180
+status: 3
+tags: []
+user_id: uyen

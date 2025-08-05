@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/b08b6a1394274a618956e4605d3ce4ba/artifacts
+end_time: 1754364642379
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: b08b6a1394274a618956e4605d3ce4ba
+run_name: trusting-steed-525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364641677
+status: 3
+tags: []
+user_id: uyen

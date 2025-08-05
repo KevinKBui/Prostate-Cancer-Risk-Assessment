@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/55bb1d3785c64aa39befe27c2ac66e7f/artifacts
+end_time: 1754364631551
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 55bb1d3785c64aa39befe27c2ac66e7f
+run_name: enchanting-calf-961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364631457
+status: 3
+tags: []
+user_id: uyen

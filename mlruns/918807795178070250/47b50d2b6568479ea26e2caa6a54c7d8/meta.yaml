@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/47b50d2b6568479ea26e2caa6a54c7d8/artifacts
+end_time: 1754370949708
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 47b50d2b6568479ea26e2caa6a54c7d8
+run_name: useful-shad-98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370948959
+status: 3
+tags: []
+user_id: uyen

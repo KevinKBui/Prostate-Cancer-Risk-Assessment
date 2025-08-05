@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/c6706295eafb435ab967574b97b80439/artifacts
+end_time: 1754366519687
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: c6706295eafb435ab967574b97b80439
+run_name: vaunted-duck-453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366519582
+status: 3
+tags: []
+user_id: uyen

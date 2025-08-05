@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/6be387978fe04f738f784cb1397e427e/artifacts
+end_time: 1754370909926
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 6be387978fe04f738f784cb1397e427e
+run_name: chill-kit-204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370909146
+status: 3
+tags: []
+user_id: uyen

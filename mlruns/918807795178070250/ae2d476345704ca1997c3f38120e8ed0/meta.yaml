@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/ae2d476345704ca1997c3f38120e8ed0/artifacts
+end_time: 1754364632609
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: ae2d476345704ca1997c3f38120e8ed0
+run_name: ambitious-sponge-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364632532
+status: 3
+tags: []
+user_id: uyen

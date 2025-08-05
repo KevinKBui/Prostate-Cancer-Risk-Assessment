@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/4cdca64d28b54825aea40f8102664010/artifacts
+end_time: 1754370950083
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 4cdca64d28b54825aea40f8102664010
+run_name: marvelous-cat-75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370949718
+status: 3
+tags: []
+user_id: uyen

@@ -179,8 +179,11 @@ def train_model(
         mlflow.log_metric("train_accuracy", train_accuracy)
         mlflow.log_metric("val_accuracy", val_accuracy)
 
-        # Log model
-        mlflow.xgboost.log_model(model, "model")
+        # Temporarily disabled due to permission issues with /workspace
+        # mlflow.xgboost.log_model(model, "model")
+        logger.info(
+            "MLflow model logging disabled - model saved locally as pickle instead"
+        )
 
         # Save model locally
         models_dir = Path("models")

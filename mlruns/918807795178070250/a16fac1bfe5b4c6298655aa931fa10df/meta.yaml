@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/a16fac1bfe5b4c6298655aa931fa10df/artifacts
+end_time: 1754364641234
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: a16fac1bfe5b4c6298655aa931fa10df
+run_name: flawless-doe-144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364641140
+status: 3
+tags: []
+user_id: uyen

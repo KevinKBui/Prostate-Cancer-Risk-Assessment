@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/4293733e856a4709a88b65edda2096de/artifacts
+end_time: 1754370940133
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 4293733e856a4709a88b65edda2096de
+run_name: amusing-moth-69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370929686
+status: 3
+tags: []
+user_id: uyen

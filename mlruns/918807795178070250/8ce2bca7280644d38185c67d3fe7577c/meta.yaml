@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/8ce2bca7280644d38185c67d3fe7577c/artifacts
+end_time: 1754370488748
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 8ce2bca7280644d38185c67d3fe7577c
+run_name: gaudy-bass-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370488725
+status: 3
+tags: []
+user_id: uyen

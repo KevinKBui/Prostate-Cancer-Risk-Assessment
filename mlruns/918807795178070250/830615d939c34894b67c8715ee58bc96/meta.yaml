@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/830615d939c34894b67c8715ee58bc96/artifacts
+end_time: 1754364633243
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 830615d939c34894b67c8715ee58bc96
+run_name: redolent-squid-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364633155
+status: 3
+tags: []
+user_id: uyen

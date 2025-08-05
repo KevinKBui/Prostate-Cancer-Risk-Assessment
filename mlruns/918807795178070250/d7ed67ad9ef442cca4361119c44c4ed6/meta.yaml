@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/d7ed67ad9ef442cca4361119c44c4ed6/artifacts
+end_time: 1754366532497
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: d7ed67ad9ef442cca4361119c44c4ed6
+run_name: masked-bug-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366532432
+status: 3
+tags: []
+user_id: uyen

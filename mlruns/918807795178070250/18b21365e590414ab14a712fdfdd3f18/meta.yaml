@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/18b21365e590414ab14a712fdfdd3f18/artifacts
+end_time: 1754370948938
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 18b21365e590414ab14a712fdfdd3f18
+run_name: polite-horse-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370941925
+status: 3
+tags: []
+user_id: uyen

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/f9256f2d0f3f4a46bfaa81c543ad92b9/artifacts
+end_time: 1754366530985
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: f9256f2d0f3f4a46bfaa81c543ad92b9
+run_name: gentle-kit-601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366530915
+status: 3
+tags: []
+user_id: uyen

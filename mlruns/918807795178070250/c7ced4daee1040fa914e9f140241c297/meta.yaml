@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/c7ced4daee1040fa914e9f140241c297/artifacts
+end_time: 1754364635525
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: c7ced4daee1040fa914e9f140241c297
+run_name: unequaled-bee-659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364634851
+status: 3
+tags: []
+user_id: uyen

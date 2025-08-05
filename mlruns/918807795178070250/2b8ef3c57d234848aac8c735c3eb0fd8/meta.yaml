@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/2b8ef3c57d234848aac8c735c3eb0fd8/artifacts
+end_time: 1754364640957
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 2b8ef3c57d234848aac8c735c3eb0fd8
+run_name: honorable-conch-35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364640841
+status: 3
+tags: []
+user_id: uyen

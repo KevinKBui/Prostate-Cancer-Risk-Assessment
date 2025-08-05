@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/163f62952d2e4b37800ff40b920635f1/artifacts
+end_time: 1754366529041
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 163f62952d2e4b37800ff40b920635f1
+run_name: flawless-goose-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366523679
+status: 3
+tags: []
+user_id: uyen

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/7337d128ed2d4513af1c03e99d8f13de/artifacts
+end_time: 1754370488031
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 7337d128ed2d4513af1c03e99d8f13de
+run_name: redolent-gnat-335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370488016
+status: 3
+tags: []
+user_id: uyen

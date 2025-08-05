@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/2d38659820d94cdeb1295d9d61b74d18/artifacts
+end_time: 1754370488881
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 2d38659820d94cdeb1295d9d61b74d18
+run_name: lyrical-crow-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370488855
+status: 3
+tags: []
+user_id: uyen

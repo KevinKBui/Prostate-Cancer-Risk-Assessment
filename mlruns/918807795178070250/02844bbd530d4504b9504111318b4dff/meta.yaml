@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/02844bbd530d4504b9504111318b4dff/artifacts
+end_time: 1754370928262
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 02844bbd530d4504b9504111318b4dff
+run_name: loud-newt-693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370928145
+status: 3
+tags: []
+user_id: uyen

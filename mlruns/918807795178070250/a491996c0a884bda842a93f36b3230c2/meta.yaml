@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/a491996c0a884bda842a93f36b3230c2/artifacts
+end_time: 1754364644163
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: a491996c0a884bda842a93f36b3230c2
+run_name: silent-ape-235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364644043
+status: 3
+tags: []
+user_id: uyen

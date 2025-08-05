@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/2b5ef99bc19540c8a7e705be0a7164f7/artifacts
+end_time: 1754370488635
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 2b5ef99bc19540c8a7e705be0a7164f7
+run_name: auspicious-fowl-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370488615
+status: 3
+tags: []
+user_id: uyen

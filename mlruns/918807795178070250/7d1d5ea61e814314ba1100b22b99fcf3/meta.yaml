@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/7d1d5ea61e814314ba1100b22b99fcf3/artifacts
+end_time: 1754364640821
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 7d1d5ea61e814314ba1100b22b99fcf3
+run_name: valuable-sheep-605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364640758
+status: 3
+tags: []
+user_id: uyen

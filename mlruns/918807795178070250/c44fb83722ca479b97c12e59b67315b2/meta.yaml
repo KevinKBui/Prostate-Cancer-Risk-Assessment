@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/c44fb83722ca479b97c12e59b67315b2/artifacts
+end_time: 1754364641663
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: c44fb83722ca479b97c12e59b67315b2
+run_name: debonair-shoat-346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364641616
+status: 3
+tags: []
+user_id: uyen

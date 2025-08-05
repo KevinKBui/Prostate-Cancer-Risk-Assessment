@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/f3e8d26b17214079bc8b4a55f65b427e/artifacts
+end_time: 1754370957553
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: f3e8d26b17214079bc8b4a55f65b427e
+run_name: resilient-boar-946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370957417
+status: 3
+tags: []
+user_id: uyen

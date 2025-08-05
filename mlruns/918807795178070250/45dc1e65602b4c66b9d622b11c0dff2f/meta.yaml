@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/45dc1e65602b4c66b9d622b11c0dff2f/artifacts
+end_time: 1754370488848
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 45dc1e65602b4c66b9d622b11c0dff2f
+run_name: agreeable-duck-816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370488833
+status: 3
+tags: []
+user_id: uyen

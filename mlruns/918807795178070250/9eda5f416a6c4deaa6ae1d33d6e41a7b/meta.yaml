@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/9eda5f416a6c4deaa6ae1d33d6e41a7b/artifacts
+end_time: 1754366533505
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 9eda5f416a6c4deaa6ae1d33d6e41a7b
+run_name: gentle-pig-861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366533400
+status: 3
+tags: []
+user_id: uyen

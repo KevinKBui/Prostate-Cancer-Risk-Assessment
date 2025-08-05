@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/796458bf100745d6afb1c350d19d4d08/artifacts
+end_time: 1754370488239
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 796458bf100745d6afb1c350d19d4d08
+run_name: rogue-hen-656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370488219
+status: 3
+tags: []
+user_id: uyen

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/be140132881140e689132d5f1be2405c/artifacts
+end_time: 1754364641119
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: be140132881140e689132d5f1be2405c
+run_name: delightful-pig-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364641089
+status: 3
+tags: []
+user_id: uyen

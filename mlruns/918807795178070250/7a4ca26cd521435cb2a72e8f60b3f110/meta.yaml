@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/7a4ca26cd521435cb2a72e8f60b3f110/artifacts
+end_time: 1754364631970
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 7a4ca26cd521435cb2a72e8f60b3f110
+run_name: rogue-steed-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364631559
+status: 3
+tags: []
+user_id: uyen

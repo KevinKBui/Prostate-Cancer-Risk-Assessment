@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/70fc648cfe874e3ca649aed37324f66e/artifacts
+end_time: 1754370488917
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 70fc648cfe874e3ca649aed37324f66e
+run_name: caring-asp-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370488889
+status: 3
+tags: []
+user_id: uyen

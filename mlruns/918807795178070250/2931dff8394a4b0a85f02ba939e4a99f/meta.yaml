@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/2931dff8394a4b0a85f02ba939e4a99f/artifacts
+end_time: 1754370488772
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 2931dff8394a4b0a85f02ba939e4a99f
+run_name: wise-grouse-344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370488755
+status: 3
+tags: []
+user_id: uyen

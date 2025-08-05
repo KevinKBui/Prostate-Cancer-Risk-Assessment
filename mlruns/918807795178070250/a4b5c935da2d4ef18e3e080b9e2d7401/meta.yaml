@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/a4b5c935da2d4ef18e3e080b9e2d7401/artifacts
+end_time: 1754366531201
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: a4b5c935da2d4ef18e3e080b9e2d7401
+run_name: bustling-crane-804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366531088
+status: 3
+tags: []
+user_id: uyen

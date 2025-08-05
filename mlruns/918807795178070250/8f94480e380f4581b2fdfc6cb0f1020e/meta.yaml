@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/8f94480e380f4581b2fdfc6cb0f1020e/artifacts
+end_time: 1754370928846
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 8f94480e380f4581b2fdfc6cb0f1020e
+run_name: unleashed-stoat-409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370928807
+status: 3
+tags: []
+user_id: uyen

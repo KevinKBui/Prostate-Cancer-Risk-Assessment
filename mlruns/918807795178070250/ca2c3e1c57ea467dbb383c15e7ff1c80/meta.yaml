@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/ca2c3e1c57ea467dbb383c15e7ff1c80/artifacts
+end_time: 1754370899411
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: ca2c3e1c57ea467dbb383c15e7ff1c80
+run_name: bright-turtle-979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370899311
+status: 3
+tags: []
+user_id: uyen

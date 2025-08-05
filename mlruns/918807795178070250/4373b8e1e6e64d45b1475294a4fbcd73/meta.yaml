@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/4373b8e1e6e64d45b1475294a4fbcd73/artifacts
+end_time: 1754364637509
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 4373b8e1e6e64d45b1475294a4fbcd73
+run_name: placid-whale-144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364637460
+status: 3
+tags: []
+user_id: uyen

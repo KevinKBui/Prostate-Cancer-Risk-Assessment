@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/e56f7fd3cc8f45a2a282b44b7f14e4db/artifacts
+end_time: 1754366519338
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: e56f7fd3cc8f45a2a282b44b7f14e4db
+run_name: skillful-shad-186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366518935
+status: 3
+tags: []
+user_id: uyen

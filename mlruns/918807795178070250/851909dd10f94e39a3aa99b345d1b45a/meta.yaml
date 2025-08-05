@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/851909dd10f94e39a3aa99b345d1b45a/artifacts
+end_time: 1754370487939
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 851909dd10f94e39a3aa99b345d1b45a
+run_name: judicious-loon-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370487912
+status: 3
+tags: []
+user_id: uyen

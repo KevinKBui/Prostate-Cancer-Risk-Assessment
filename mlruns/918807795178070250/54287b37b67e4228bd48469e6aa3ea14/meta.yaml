@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/54287b37b67e4228bd48469e6aa3ea14/artifacts
+end_time: 1754364640642
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 54287b37b67e4228bd48469e6aa3ea14
+run_name: sneaky-yak-127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364639703
+status: 3
+tags: []
+user_id: uyen

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/0061234d9cd74410ae71a6578977a7d0/artifacts
+end_time: 1754364641604
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 0061234d9cd74410ae71a6578977a7d0
+run_name: shivering-ape-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364641529
+status: 3
+tags: []
+user_id: uyen

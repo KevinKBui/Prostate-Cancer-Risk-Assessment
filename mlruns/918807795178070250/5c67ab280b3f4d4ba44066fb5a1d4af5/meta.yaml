@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/5c67ab280b3f4d4ba44066fb5a1d4af5/artifacts
+end_time: 1754364638619
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 5c67ab280b3f4d4ba44066fb5a1d4af5
+run_name: delightful-wolf-995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364638313
+status: 3
+tags: []
+user_id: uyen

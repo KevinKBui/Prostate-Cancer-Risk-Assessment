@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/e2d3a2a1ac1840b4a3a7ba4ad7a5adf3/artifacts
+end_time: 1754364632525
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: e2d3a2a1ac1840b4a3a7ba4ad7a5adf3
+run_name: adorable-wolf-502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364631976
+status: 3
+tags: []
+user_id: uyen

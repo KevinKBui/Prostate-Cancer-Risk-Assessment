@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/225bcb7154d64c0198825f59202e4ef9/artifacts
+end_time: 1754364636229
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 225bcb7154d64c0198825f59202e4ef9
+run_name: fun-eel-500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364636002
+status: 3
+tags: []
+user_id: uyen

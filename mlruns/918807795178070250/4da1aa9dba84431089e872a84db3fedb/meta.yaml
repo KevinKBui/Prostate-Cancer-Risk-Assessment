@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/4da1aa9dba84431089e872a84db3fedb/artifacts
+end_time: 1754366522867
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 4da1aa9dba84431089e872a84db3fedb
+run_name: able-owl-256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366522385
+status: 3
+tags: []
+user_id: uyen

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/7fbf551e04ab455ab8d96fd69058f084/artifacts
+end_time: 1754370488967
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 7fbf551e04ab455ab8d96fd69058f084
+run_name: kindly-rat-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370488949
+status: 3
+tags: []
+user_id: uyen

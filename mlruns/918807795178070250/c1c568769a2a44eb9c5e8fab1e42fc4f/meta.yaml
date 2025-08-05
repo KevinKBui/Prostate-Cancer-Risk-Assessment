@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/c1c568769a2a44eb9c5e8fab1e42fc4f/artifacts
+end_time: 1754370891757
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: c1c568769a2a44eb9c5e8fab1e42fc4f
+run_name: fearless-fox-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370890578
+status: 3
+tags: []
+user_id: uyen

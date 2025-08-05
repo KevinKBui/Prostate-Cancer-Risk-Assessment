@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/725473a1261d430cbd18db5e77f3b4a1/artifacts
+end_time: 1754366533879
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 725473a1261d430cbd18db5e77f3b4a1
+run_name: exultant-bat-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366533746
+status: 3
+tags: []
+user_id: uyen

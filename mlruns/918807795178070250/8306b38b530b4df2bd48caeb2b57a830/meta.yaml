@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/8306b38b530b4df2bd48caeb2b57a830/artifacts
+end_time: 1754366515066
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 8306b38b530b4df2bd48caeb2b57a830
+run_name: gregarious-hound-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366510734
+status: 3
+tags: []
+user_id: uyen

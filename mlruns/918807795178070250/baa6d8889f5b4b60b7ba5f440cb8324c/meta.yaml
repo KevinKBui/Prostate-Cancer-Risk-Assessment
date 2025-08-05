@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/baa6d8889f5b4b60b7ba5f440cb8324c/artifacts
+end_time: 1754366531377
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: baa6d8889f5b4b60b7ba5f440cb8324c
+run_name: handsome-dove-651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366531294
+status: 3
+tags: []
+user_id: uyen

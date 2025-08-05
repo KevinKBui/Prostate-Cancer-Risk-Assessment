@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/264d11c50e8c431ba04b6c8fc3eb2648/artifacts
+end_time: 1754364643765
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 264d11c50e8c431ba04b6c8fc3eb2648
+run_name: bedecked-whale-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364643675
+status: 3
+tags: []
+user_id: uyen

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/0079e2b962734082ab4c3d8593be9d5b/artifacts
+end_time: 1754370486420
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 0079e2b962734082ab4c3d8593be9d5b
+run_name: salty-boar-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370486389
+status: 3
+tags: []
+user_id: uyen

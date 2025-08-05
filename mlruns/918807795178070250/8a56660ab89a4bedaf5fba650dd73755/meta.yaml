@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/8a56660ab89a4bedaf5fba650dd73755/artifacts
+end_time: 1754370896742
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 8a56660ab89a4bedaf5fba650dd73755
+run_name: adaptable-midge-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370896647
+status: 3
+tags: []
+user_id: uyen

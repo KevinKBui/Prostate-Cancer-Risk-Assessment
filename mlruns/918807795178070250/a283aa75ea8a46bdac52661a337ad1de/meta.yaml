@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/a283aa75ea8a46bdac52661a337ad1de/artifacts
+end_time: 1754370928528
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: a283aa75ea8a46bdac52661a337ad1de
+run_name: stylish-duck-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370928408
+status: 3
+tags: []
+user_id: uyen

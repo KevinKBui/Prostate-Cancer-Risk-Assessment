@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/320b1fb4f0374b23a0c7ac75fa9051ec/artifacts
+end_time: 1754366530643
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 320b1fb4f0374b23a0c7ac75fa9051ec
+run_name: rogue-bear-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366530609
+status: 3
+tags: []
+user_id: uyen

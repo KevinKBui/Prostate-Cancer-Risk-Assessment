@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/f875e8be7fc544e583e3432f9a263566/artifacts
+end_time: 1754364639503
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: f875e8be7fc544e583e3432f9a263566
+run_name: overjoyed-ox-240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364638861
+status: 3
+tags: []
+user_id: uyen

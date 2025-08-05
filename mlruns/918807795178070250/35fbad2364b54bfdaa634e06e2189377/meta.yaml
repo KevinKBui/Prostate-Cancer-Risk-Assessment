@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/35fbad2364b54bfdaa634e06e2189377/artifacts
+end_time: 1754364634845
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 35fbad2364b54bfdaa634e06e2189377
+run_name: sedate-donkey-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364634266
+status: 3
+tags: []
+user_id: uyen

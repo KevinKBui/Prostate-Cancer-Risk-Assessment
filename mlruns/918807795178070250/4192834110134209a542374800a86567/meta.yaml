@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/4192834110134209a542374800a86567/artifacts
+end_time: 1754366518192
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 4192834110134209a542374800a86567
+run_name: capable-slug-497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366518126
+status: 3
+tags: []
+user_id: uyen

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/7da275070184403e87912b8b44a5b8f5/artifacts
+end_time: 1754364641516
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 7da275070184403e87912b8b44a5b8f5
+run_name: colorful-crow-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364641435
+status: 3
+tags: []
+user_id: uyen

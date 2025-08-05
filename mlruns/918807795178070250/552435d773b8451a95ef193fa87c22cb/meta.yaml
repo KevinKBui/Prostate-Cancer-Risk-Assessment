@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/552435d773b8451a95ef193fa87c22cb/artifacts
+end_time: 1754364639691
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 552435d773b8451a95ef193fa87c22cb
+run_name: incongruous-pig-543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364639515
+status: 3
+tags: []
+user_id: uyen

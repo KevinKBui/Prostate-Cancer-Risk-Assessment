@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/55ef0f0b599c44238e523a92cf50a78a/artifacts
+end_time: 1754366533376
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 55ef0f0b599c44238e523a92cf50a78a
+run_name: bedecked-lynx-112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366533331
+status: 3
+tags: []
+user_id: uyen

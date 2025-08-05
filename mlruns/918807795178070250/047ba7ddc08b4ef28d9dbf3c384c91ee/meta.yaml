@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/047ba7ddc08b4ef28d9dbf3c384c91ee/artifacts
+end_time: 1754370488302
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 047ba7ddc08b4ef28d9dbf3c384c91ee
+run_name: zealous-smelt-251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370488280
+status: 3
+tags: []
+user_id: uyen

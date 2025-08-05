@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/15e5cea3b9ff41c1bafa95f566416cd4/artifacts
+end_time: 1754366518118
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 15e5cea3b9ff41c1bafa95f566416cd4
+run_name: youthful-fly-787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366518057
+status: 3
+tags: []
+user_id: uyen

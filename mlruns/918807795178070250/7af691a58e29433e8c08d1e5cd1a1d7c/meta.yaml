@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/7af691a58e29433e8c08d1e5cd1a1d7c/artifacts
+end_time: 1754366531271
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 7af691a58e29433e8c08d1e5cd1a1d7c
+run_name: abrasive-cod-798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366531226
+status: 3
+tags: []
+user_id: uyen

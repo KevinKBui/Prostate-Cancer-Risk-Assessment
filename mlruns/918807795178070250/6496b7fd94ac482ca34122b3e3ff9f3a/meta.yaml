@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/6496b7fd94ac482ca34122b3e3ff9f3a/artifacts
+end_time: 1754366530440
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 6496b7fd94ac482ca34122b3e3ff9f3a
+run_name: burly-pug-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366530405
+status: 3
+tags: []
+user_id: uyen

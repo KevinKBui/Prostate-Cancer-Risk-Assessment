@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/be9efeac90dd44dcbb18c663288a1ddf/artifacts
+end_time: 1754364633147
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: be9efeac90dd44dcbb18c663288a1ddf
+run_name: smiling-lark-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364633057
+status: 3
+tags: []
+user_id: uyen

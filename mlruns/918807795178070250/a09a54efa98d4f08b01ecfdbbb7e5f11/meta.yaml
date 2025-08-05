@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/a09a54efa98d4f08b01ecfdbbb7e5f11/artifacts
+end_time: 1754366531066
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: a09a54efa98d4f08b01ecfdbbb7e5f11
+run_name: skittish-colt-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366531012
+status: 3
+tags: []
+user_id: uyen

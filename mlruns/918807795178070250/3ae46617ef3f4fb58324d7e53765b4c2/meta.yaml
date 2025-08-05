@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/3ae46617ef3f4fb58324d7e53765b4c2/artifacts
+end_time: 1754370928128
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 3ae46617ef3f4fb58324d7e53765b4c2
+run_name: traveling-rook-607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370928070
+status: 3
+tags: []
+user_id: uyen

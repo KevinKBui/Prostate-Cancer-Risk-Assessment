@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/7bc7d4e64fdd49d9bbf129e6328acfdd/artifacts
+end_time: 1754366532292
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 7bc7d4e64fdd49d9bbf129e6328acfdd
+run_name: selective-fish-117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366532231
+status: 3
+tags: []
+user_id: uyen

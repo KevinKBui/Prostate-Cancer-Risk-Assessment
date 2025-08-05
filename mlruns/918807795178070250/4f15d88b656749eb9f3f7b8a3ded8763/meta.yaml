@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/4f15d88b656749eb9f3f7b8a3ded8763/artifacts
+end_time: 1754370928655
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 4f15d88b656749eb9f3f7b8a3ded8763
+run_name: enthused-deer-473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370928614
+status: 3
+tags: []
+user_id: uyen

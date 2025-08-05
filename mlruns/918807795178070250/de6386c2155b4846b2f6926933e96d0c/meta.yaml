@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/de6386c2155b4846b2f6926933e96d0c/artifacts
+end_time: 1754366530383
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: de6386c2155b4846b2f6926933e96d0c
+run_name: upset-bear-909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366530303
+status: 3
+tags: []
+user_id: uyen

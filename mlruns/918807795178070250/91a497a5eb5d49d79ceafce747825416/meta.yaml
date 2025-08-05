@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/91a497a5eb5d49d79ceafce747825416/artifacts
+end_time: 1754370488401
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 91a497a5eb5d49d79ceafce747825416
+run_name: casual-stag-556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370488386
+status: 3
+tags: []
+user_id: uyen

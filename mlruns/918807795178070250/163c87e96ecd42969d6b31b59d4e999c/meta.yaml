@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/163c87e96ecd42969d6b31b59d4e999c/artifacts
+end_time: 1754370927162
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 163c87e96ecd42969d6b31b59d4e999c
+run_name: honorable-kite-259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370927105
+status: 3
+tags: []
+user_id: uyen

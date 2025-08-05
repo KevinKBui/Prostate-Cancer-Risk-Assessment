@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/9e17c69b9e92485ca3432a2d88ac34f2/artifacts
+end_time: 1754366532204
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 9e17c69b9e92485ca3432a2d88ac34f2
+run_name: intrigued-fox-921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366531392
+status: 3
+tags: []
+user_id: uyen

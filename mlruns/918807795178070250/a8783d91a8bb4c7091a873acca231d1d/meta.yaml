@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/a8783d91a8bb4c7091a873acca231d1d/artifacts
+end_time: 1754366518851
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: a8783d91a8bb4c7091a873acca231d1d
+run_name: likeable-grouse-639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366518337
+status: 3
+tags: []
+user_id: uyen

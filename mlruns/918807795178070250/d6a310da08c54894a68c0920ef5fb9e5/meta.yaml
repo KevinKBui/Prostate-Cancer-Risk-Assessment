@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/d6a310da08c54894a68c0920ef5fb9e5/artifacts
+end_time: 1754370895482
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: d6a310da08c54894a68c0920ef5fb9e5
+run_name: loud-fowl-54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370893193
+status: 3
+tags: []
+user_id: uyen

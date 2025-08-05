@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/527f951b370d4ce0bda94e2581f80fe6/artifacts
+end_time: 1754366517872
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 527f951b370d4ce0bda94e2581f80fe6
+run_name: sassy-shrike-628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754366517775
+status: 3
+tags: []
+user_id: uyen

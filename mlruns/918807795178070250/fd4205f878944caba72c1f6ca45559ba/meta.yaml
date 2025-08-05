@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/fd4205f878944caba72c1f6ca45559ba/artifacts
+end_time: 1754370916743
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: fd4205f878944caba72c1f6ca45559ba
+run_name: dapper-cow-779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754370916575
+status: 3
+tags: []
+user_id: uyen
