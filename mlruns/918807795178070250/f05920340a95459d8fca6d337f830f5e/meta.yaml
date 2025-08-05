@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/f05920340a95459d8fca6d337f830f5e/artifacts
+end_time: 1754358677287
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: f05920340a95459d8fca6d337f830f5e
+run_name: suave-hare-705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754358677238
+status: 3
+tags: []
+user_id: codespace

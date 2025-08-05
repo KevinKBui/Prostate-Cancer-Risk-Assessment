@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/b02e09108d3c47ee95d5fb38e4259def/artifacts
+end_time: 1754358676346
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: b02e09108d3c47ee95d5fb38e4259def
+run_name: placid-bee-324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754358676231
+status: 3
+tags: []
+user_id: codespace

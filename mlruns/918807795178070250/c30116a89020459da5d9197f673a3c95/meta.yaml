@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/c30116a89020459da5d9197f673a3c95/artifacts
+end_time: 1754358677622
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: c30116a89020459da5d9197f673a3c95
+run_name: brawny-quail-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754358677565
+status: 3
+tags: []
+user_id: codespace

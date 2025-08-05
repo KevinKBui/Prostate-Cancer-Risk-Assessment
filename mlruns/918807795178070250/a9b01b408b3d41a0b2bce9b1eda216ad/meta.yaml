@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/a9b01b408b3d41a0b2bce9b1eda216ad/artifacts
+end_time: 1754358678350
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: a9b01b408b3d41a0b2bce9b1eda216ad
+run_name: enthused-rook-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754358678290
+status: 3
+tags: []
+user_id: codespace

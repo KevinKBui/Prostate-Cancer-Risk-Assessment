@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/652ae06711f84655861b510c696af244/artifacts
+end_time: 1754358678569
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 652ae06711f84655861b510c696af244
+run_name: persistent-carp-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754358678530
+status: 3
+tags: []
+user_id: codespace

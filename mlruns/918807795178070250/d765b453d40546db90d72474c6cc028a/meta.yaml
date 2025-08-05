@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/d765b453d40546db90d72474c6cc028a/artifacts
+end_time: 1754358678669
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: d765b453d40546db90d72474c6cc028a
+run_name: languid-roo-9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754358678635
+status: 3
+tags: []
+user_id: codespace

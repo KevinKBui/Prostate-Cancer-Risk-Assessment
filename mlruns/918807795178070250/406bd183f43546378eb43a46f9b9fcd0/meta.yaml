@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/406bd183f43546378eb43a46f9b9fcd0/artifacts
+end_time: 1754358678515
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 406bd183f43546378eb43a46f9b9fcd0
+run_name: loud-chimp-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754358678473
+status: 3
+tags: []
+user_id: codespace

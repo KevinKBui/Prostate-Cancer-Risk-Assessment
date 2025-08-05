@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/f1022c42ab0347dc86e6b85b66e18c39/artifacts
+end_time: 1754358677719
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: f1022c42ab0347dc86e6b85b66e18c39
+run_name: welcoming-croc-217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754358677644
+status: 3
+tags: []
+user_id: codespace

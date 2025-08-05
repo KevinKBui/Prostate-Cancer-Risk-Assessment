@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/126e104e2c4a4d848f65b953576ae77a/artifacts
+end_time: 1754358673760
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 126e104e2c4a4d848f65b953576ae77a
+run_name: selective-finch-711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754358673703
+status: 3
+tags: []
+user_id: codespace

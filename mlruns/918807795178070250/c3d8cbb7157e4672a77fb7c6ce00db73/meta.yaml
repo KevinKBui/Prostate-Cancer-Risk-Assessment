@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/c3d8cbb7157e4672a77fb7c6ce00db73/artifacts
+end_time: 1754358678809
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: c3d8cbb7157e4672a77fb7c6ce00db73
+run_name: peaceful-moth-991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754358678771
+status: 3
+tags: []
+user_id: codespace

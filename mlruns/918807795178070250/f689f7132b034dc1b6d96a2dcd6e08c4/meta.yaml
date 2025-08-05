@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/f689f7132b034dc1b6d96a2dcd6e08c4/artifacts
+end_time: 1754358676034
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: f689f7132b034dc1b6d96a2dcd6e08c4
+run_name: likeable-goat-158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754358675976
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/e6ea6c4eed1c47b2aadf3963894f5aef/artifacts
+end_time: 1754358676439
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: e6ea6c4eed1c47b2aadf3963894f5aef
+run_name: bustling-gull-445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754358676404
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/60a108cd30a245509c56f249a39db4f4/artifacts
+end_time: 1754358676538
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 60a108cd30a245509c56f249a39db4f4
+run_name: kindly-hound-177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754358676501
+status: 3
+tags: []
+user_id: codespace

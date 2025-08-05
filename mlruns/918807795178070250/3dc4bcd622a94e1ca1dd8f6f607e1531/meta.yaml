@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/3dc4bcd622a94e1ca1dd8f6f607e1531/artifacts
+end_time: 1754358676227
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 3dc4bcd622a94e1ca1dd8f6f607e1531
+run_name: receptive-carp-364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754358676163
+status: 3
+tags: []
+user_id: codespace

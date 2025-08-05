@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/a67d4741763948dba1354ae1c6674648/artifacts
+end_time: 1754358676873
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: a67d4741763948dba1354ae1c6674648
+run_name: unleashed-steed-52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754358676841
+status: 3
+tags: []
+user_id: codespace

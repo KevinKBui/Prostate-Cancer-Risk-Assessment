@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/facc9f01711b44de8a2e638c270e378a/artifacts
+end_time: 1754358676487
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: facc9f01711b44de8a2e638c270e378a
+run_name: languid-rat-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754358676444
+status: 3
+tags: []
+user_id: codespace

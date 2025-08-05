@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/b1d1905c006148f4a80a3711cb6fc8ad/artifacts
+end_time: 1754358678237
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: b1d1905c006148f4a80a3711cb6fc8ad
+run_name: classy-foal-919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754358677829
+status: 3
+tags: []
+user_id: codespace

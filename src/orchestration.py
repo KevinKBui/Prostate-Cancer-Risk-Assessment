@@ -209,7 +209,7 @@ def save_run_id(run_id: str):
 
 @flow(name="training-pipeline")
 def training_pipeline(
-    file_path: str = "/workspace/Prostate-Cancer-Risk-Assessment/Data/raw/synthetic_prostate_cancer_risk.csv",
+    file_path: str = "./Data/raw/synthetic_prostate_cancer_risk.csv",
 ):
     """Main training pipeline"""
     logger.info("Starting training pipeline")

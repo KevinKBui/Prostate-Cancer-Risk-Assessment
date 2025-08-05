@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/918807795178070250/63432e5f001d4b748ed6c58c77e88b8a/artifacts
+end_time: 1754358676112
+entry_point_name: ''
+experiment_id: '918807795178070250'
+lifecycle_stage: active
+run_id: 63432e5f001d4b748ed6c58c77e88b8a
+run_name: brawny-croc-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754358676079
+status: 3
+tags: []
+user_id: codespace
