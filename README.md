@@ -1,7 +1,6 @@
 # Prostate Cancer Risk Prediction - MLOps Pipeline
 
-[![CI/CD Pipeline](https://github.com/KevinKBui/prostate-cancer-prediction/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/KevinKBui/prostate-cancer-prediction/actions/workflows/ci-cd.yml)
-[![Code Quality](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![CI/CD Pipeline](https://github.com/KevinKBui/Prostate-Cancer-Risk-Assessment/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/KevinKBui/Prostate-Cancer-Risk-Assessment/actions/workflows/ci-cd.yml)
 
 A complete end-to-end MLOps pipeline for predicting prostate cancer risk levels based on patient health indicators and lifestyle factors. This project demonstrates modern MLOps practices including experiment tracking, workflow orchestration, model deployment, monitoring, and CI/CD.
 
@@ -24,7 +23,9 @@ Prostate cancer is a rising issue within society. There is an alarming increase 
 **CI/CD Pipeline** (GitHub Actions)  
 **Infrastructure as Code** (Docker Compose)  
 
-## Quick Start
+## How to Get Started
+
+The instructions in this README are intended for Linux systems.  
 
 ### 1. Setup Environment
 
@@ -33,10 +34,14 @@ Clone the repository
 git clone https://github.com/KevinKBui/Prostate-Cancer-Risk-Assessment.git
 ```
 
-Create and Activate virtual environment
+Change the directory to the Repository folder
 ```bash
-python3 -m venv mlops_env
-source mlops_env/bin/activate  # On Windows: mlops_env\Scripts\activate
+cd Prostate-Cancer-Risk-Assessment
+```
+
+Activate virtual environment
+```bash
+source mlops_env/bin/activate
 ```
 
 Setup MLOps environment (install dependencies and create directories)
@@ -52,11 +57,6 @@ make train
 ```
 
 ### 3. Start Web Service
-
-Activate virtual environment
-```bash
-source mlops_env/bin/activate
-```
 
 Start the prediction web service
 ```bash
@@ -165,11 +165,9 @@ curl -X POST http://localhost:9696/predict_api \
 
 ### Docker Deployment
 
+Build and Deploy Docker image
 ```bash
-# Build Docker image
 make build
-
-# Deploy with Docker Compose
 make deploy
 ```
 
