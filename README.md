@@ -1,8 +1,7 @@
 # Prostate Cancer Risk Prediction - MLOps Pipeline
 
-[![CI/CD Pipeline](https://github.com/your-username/prostate-cancer-prediction/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/your-username/prostate-cancer-prediction/actions/workflows/ci-cd.yml)
+[![CI/CD Pipeline](https://github.com/KevinKBui/prostate-cancer-prediction/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/KevinKBui/prostate-cancer-prediction/actions/workflows/ci-cd.yml)
 [![Code Quality](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A complete end-to-end MLOps pipeline for predicting prostate cancer risk levels based on patient health indicators and lifestyle factors. This project demonstrates modern MLOps practices including experiment tracking, workflow orchestration, model deployment, monitoring, and CI/CD.
 
@@ -17,13 +16,13 @@ Prostate cancer is a rising issue within society. There is an alarming increase 
 
 ### MLOps Components Implemented
 
-**Experiment Tracking & Model Registry** (MLflow)
-**Workflow Orchestration** (Prefect)
-**Model Deployment** (Flask + Docker)
-**Model Monitoring** (Evidently AI)
-**Best Practices** (Testing, Linting, Pre-commit hooks)
-**CI/CD Pipeline** (GitHub Actions)
-**Infrastructure as Code** (Docker Compose)
+**Experiment Tracking & Model Registry** (MLflow)  
+**Workflow Orchestration** (Prefect)  
+**Model Deployment** (Flask + Docker)  
+**Model Monitoring** (Evidently AI)  
+**Best Practices** (Testing, Linting, Pre-commit hooks)  
+**CI/CD Pipeline** (GitHub Actions)  
+**Infrastructure as Code** (Docker Compose)  
 
 ## Quick Start
 
@@ -31,28 +30,36 @@ Prostate cancer is a rising issue within society. There is an alarming increase 
 
 Clone the repository
 ```bash
-# Create and activate virtual environment
+git clone https://github.com/KevinKBui/Prostate-Cancer-Risk-Assessment.git
+```
+
+Create and Activate virtual environment
+```bash
 python3 -m venv mlops_env
 source mlops_env/bin/activate  # On Windows: mlops_env\Scripts\activate
+```
 
-# Setup MLOps environment (installs dependencies and creates directories)
+Setup MLOps environment (install dependencies and create directories)
+```bash
 make setup-mlops
 ```
 
 ### 2. Train the Model
 
+Train model using Prefect orchestration (uses local MLflow tracking)
 ```bash
-# Train model using Prefect orchestration (uses local MLflow tracking)
 make train
 ```
 
 ### 3. Start Web Service
 
+Activate virtual environment
 ```bash
-# Activate virtual environment
 source mlops_env/bin/activate
+```
 
-# Start the prediction web service
+Start the prediction web service
+```bash
 make serve
 ```
 
@@ -100,8 +107,8 @@ make prod-deploy
 
 The training pipeline uses **Prefect** for orchestration and **MLflow** for experiment tracking:
 
+Run training pipeline
 ```bash
-# Run training pipeline
 python src/orchestration.py
 ```
 
@@ -116,7 +123,7 @@ python src/orchestration.py
 ### Experiment Tracking
 
 All experiments are tracked in MLflow with:
-- **Parameters**: Hyperparameters, data splits
+- **Parameters**: Hyperparameters, data splits, model parameters, model performance metrics (logloss error)
 - **Metrics**: Accuracy, precision, recall, F1-score
 - **Artifacts**: Trained models, preprocessing objects
 - **Model Registry**: Versioned model storage
@@ -129,8 +136,8 @@ View experiments at: http://localhost:5000
 
 The model is deployed as a **Flask web service** with both web interface and API endpoints:
 
+Start web service locally
 ```bash
-# Start web service locally
 make serve
 ```
 
@@ -196,7 +203,7 @@ Access the monitoring dashboard at: `monitoring/dashboard.html`
 - Prediction volume tracking
 - Historical trend analysis
 
-## Testing & Quality Assurance
+## Testing (Unit and Integration Tests) and Formatting (Linting)
 
 ### Running Tests
 
@@ -231,17 +238,10 @@ make quality-checks
 
 The CI/CD pipeline includes:
 
-1. **Code Quality**: Linting, formatting, security scans
+1. **Code Quality**: Linting, formatting
 2. **Testing**: Unit tests, integration tests, model validation
-3. **Security**: Bandit security scan, dependency checks
-4. **Docker**: Build and push container images
-5. **Deployment**: Automated deployment to production
-
-### Pipeline Triggers
-
-- **Push to main**: Full pipeline with deployment
-- **Pull Requests**: Testing and validation only
-- **Manual**: On-demand pipeline execution
+3. **Docker**: Build and push container images
+4. **Deployment**: Automated deployment to production
 
 ## Monitoring & Observability
 
@@ -251,7 +251,6 @@ The CI/CD pipeline includes:
 - **Data Quality**: Missing values, data types, duplicates
 - **Data Drift**: Feature distribution changes
 - **Service Health**: Response times, error rates
-- **Business Metrics**: Prediction volume, risk distribution
 
 ### Alerting
 
@@ -264,75 +263,23 @@ The CI/CD pipeline includes:
 
 ### Local Development
 
+Setup development environment
 ```bash
-# Setup development environment
 make dev-setup
+```
 
-# Make code changes
-# ... edit files ...
-
-# Run quality checks
+Run quality checks
+```bash
 make quality-checks
+```
 
-# Run tests
+Run tests
+```bash
 make test
+```
 
-# Commit changes (pre-commit hooks will run)
+Commit changes (pre-commit hooks will run)
+```bash
 git add .
 git commit -m "Your changes"
 ```
-
-### Adding New Features
-
-1. Create feature branch
-2. Implement changes with tests
-3. Run quality checks locally
-4. Submit pull request
-5. CI pipeline validates changes
-6. Merge after approval
-
-## MLOps Zoomcamp Project Criteria
-
-This project fulfills all MLOps Zoomcamp requirements:
-
-### Problem Description
-- **Clear Problem**: Prostate cancer risk prediction
-- **Dataset**: Synthetic prostate cancer risk dataset with health indicators
-- **ML Task**: Multi-class classification (Low/Medium/High risk)
-
-### Experiment Tracking and Model Registry
-- **MLflow Integration**: Complete experiment tracking
-- **Model Versioning**: Automated model registry
-- **Artifact Storage**: Models, preprocessors, metrics
-- **Model Promotion**: Best model selection and deployment
-
-### Workflow Orchestration
-- **Prefect Workflows**: Training and inference pipelines
-- **Task Dependencies**: Proper task sequencing
-- **Error Handling**: Robust pipeline execution
-- **Parameterization**: Configurable pipeline parameters
-
-### Model Deployment
-- **Web Service**: Flask application with REST API
-- **Containerization**: Docker deployment
-- **Health Monitoring**: Service health endpoints
-- **Scalability**: Docker Compose orchestration
-
-### Model Monitoring
-- **Evidently AI**: Data drift and model performance monitoring
-- **Dashboard**: HTML monitoring dashboard
-- **Alerting**: Data drift detection
-- **Historical Tracking**: Metrics storage and trending
-
-### Best Practices
-- **Testing**: Comprehensive unit and integration tests
-- **Code Quality**: Black, isort, flake8
-- **Pre-commit Hooks**: Automated quality checks
-- **CI/CD**: GitHub Actions pipeline
-- **Documentation**: Comprehensive README and code docs
-
-### Reproducibility
-- **Environment**: Docker containers and requirements.txt
-- **Data**: Versioned datasets
-- **Configuration**: Environment variables and config files
-- **Instructions**: Clear setup and deployment guide
